@@ -139,5 +139,5 @@ InstallDots.prototype.compileAll = function() {
 					readdata(defFolder + name));
 		}
 	}
-	return this.__rendermodule;
+	return this.__rendermodule    ;
 };
